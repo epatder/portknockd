@@ -1,0 +1,16 @@
+<ruleset>
+  <script>/etc/init.d/sshd</script>
+  <comment>starts sshd</comment>
+  
+  <rule>
+    <port>14456</port>
+    <passkey>ouhefiuhaiguidhjgniksjgnskfjbobfuwirubwkjsrbnskfjb</passkey>
+  </rule>
+  
+  <rule>
+    <port>4554</port>
+    <passkey>eqofijaeofaegouaogrianrgijnsfg</passkey>
+  </rule>
+
+
+</ruleset>
